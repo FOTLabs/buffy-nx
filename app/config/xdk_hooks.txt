@@ -1,0 +1,8 @@
+crt_memmove
+dsound_gp_parse_effect_image
+dsound_gp_commit_changes
+d3d_block_on_time
+xapi_xinput_open
+xapi_xinput_get_state
+xapi_xget_devices
+d3d_vblank

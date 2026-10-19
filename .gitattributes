@@ -1,0 +1,9 @@
+* text=auto
+*.sh text eol=lf
+*.py text eol=lf
+*.mjs text eol=lf
+*.c text eol=lf
+*.h text eol=lf
+*.md text eol=lf
+docs/licenses/** -whitespace
+installer/LICENSES.txt -whitespace

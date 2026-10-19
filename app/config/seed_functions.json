@@ -1,0 +1,7166 @@
+[
+ {
+  "start": "0x00011440",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00011E40",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00012B70",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00012E50",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000171E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00017B10",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00017BC0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00018680",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0001A410",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0001AD50",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0001B480",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0001BF50",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0001C240",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0001D6B0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0001DEA0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0001F370",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0001F510",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00022600",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00022860",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00022F40",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00023140",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00023260",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000239D0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000244F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00025370",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00025FD0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000265A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00030B00",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00030BA0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00039760",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00039C10",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0003B7A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0003B7C0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0003B860",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0003D180",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0004CDD0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0004D410",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00050270",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00053E30",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00054C60",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00055AC0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000572D0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00057700",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0005CAF0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0005DBD0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0005E140",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000600D0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00061150",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00061690",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00064510",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00064550",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00068100",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0006A2D0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0006A2F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0006A310",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000709C0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00074520",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00084850",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00086480",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0008AB80",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00093920",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0009F0B0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000A7C90",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000AC520",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000ADB60",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000AED70",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000AF500",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000AF890",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000B2A00",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000B3BC0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000B4C60",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000B4EA0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000B5550",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000B8960",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000B8D50",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000B9850",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000BB0F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000BBF00",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000C1EE0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000C2500",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000C38F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000C4180",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000C46D0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000C4B00",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000C7490",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000C9B00",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000CA120",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000CB0F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000CCB00",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000CD070",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000CDE00",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000CE730",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000D0720",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000D13B0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000D1CB0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000D1E70",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000D2B10",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000D2CA0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000D2F80",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000D34E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000D4A00",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000D54A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000D6310",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000D6D70",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000D7150",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000D8680",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000D8A80",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000D9820",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000DA8E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000DB100",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000DB540",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000DC060",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000DD1D0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000DD400",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000DD570",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000DD580",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000DD7F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000DDB50",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000DDBF0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000DED20",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000E01C0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000E0570",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000E0AE0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000E2290",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000E2D70",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000E3CF0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000E4440",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000E5510",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000E5770",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000E5810",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000E5D80",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000E5E80",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000E6310",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000E6F60",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000E87D0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000E93E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000EDF20",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000EE0C0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000EF9A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000F0E00",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000F40C0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000F4F80",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000F5670",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000F5CC0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000F5DD0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000F6450",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000F7430",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000F8390",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000F8620",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000F9C20",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000FA700",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000FC030",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000FD260",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000FD8E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x000FE110",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00100C80",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00104690",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001054B0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00105A70",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00106680",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00106F70",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001084A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001096F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0010A080",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0010A620",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0010AF80",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0010B340",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0010BDE0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0010C9A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0010E8C0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0010FA80",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0010FE00",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00110A80",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00111010",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001111B0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00114DE0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00116DA0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00117290",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00117840",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00117DE0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001180E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00119100",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0011CB70",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0011F930",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0011FA40",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00120FF0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001214E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00121940",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00121A30",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00124400",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00124640",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00125460",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00125DE0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001264D0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00126800",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001268E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001285E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0012A570",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0012BC20",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0012EB30",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0012F460",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001304E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00130940",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00130D60",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00138940",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0013A5D0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0013A5E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0013A600",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0013AAB0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0013B270",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0013BFC0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0013C090",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0013C5F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0013CBA0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0013CDF0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0013D750",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0013E140",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0013EA80",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0013EF90",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0013F360",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00140A40",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00141BA0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001420D0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001422A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00144120",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001444C0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00149C60",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00149D40",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0014C860",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0014CBE0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0014D380",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00152330",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00152350",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00152370",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00152410",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00152480",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00152520",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00152540",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00152870",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00152B10",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00152DA0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00152DF0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001535F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00154320",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001544B0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00154F30",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00156EA0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00158220",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0015ABC0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0015AC00",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0015ACB0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0015ADF0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0015B170",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0015B4F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0015B5B0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0015B720",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0015BB40",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0015BC40",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0015BC60",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0015BCE0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0015BD00",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0015BD10",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0015BE20",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0015D5E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0015DAD0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0015DAF0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0015DC00",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0015DD30",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0015DE40",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0015DE70",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0015DEA0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0015DFD0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001600A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00160470",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00160540",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00160A70",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001611E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001627D0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00162A50",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00162B80",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00162C20",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00162CC0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001633E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001635B0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00163650",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00163730",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001637E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00163AB0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00163E30",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00164030",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00164A50",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00164B00",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00164DC0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00165510",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00165600",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001658F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00165A10",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00165BC0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00165CC0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00166070",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00166540",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00167330",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00168700",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001694C0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0016B500",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0016B600",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0016C510",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0016C840",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0016C910",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0016E9A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001705F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00170BB0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001711D0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001713D0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00172D80",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00173120",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00173E00",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00174400",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00174900",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00174D20",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00175490",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00176170",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00176500",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00176780",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00176800",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00176830",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00176A50",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00176FE0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00177A70",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001790E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001792C0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0017ABA0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0017ACF0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0017ADF0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0017BF70",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00185140",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001A2320",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001A3890",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001A7200",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001AC990",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001ACB70",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001AD220",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001AED40",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001AF6E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001B0230",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001B1F70",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001B2160",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001B46E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001B54A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001BA620",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001BB150",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001BF260",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001BF590",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001C0010",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001C4B10",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001C5580",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001C5680",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001C6D00",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001C7400",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001C7AB0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001C7D40",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001C7ED0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001C88A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001C8C80",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001C8F30",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001C99C0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001CA0A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001CC920",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001CF250",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001CF920",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001CFBA0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001D0110",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001D0BE0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001D1640",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001D1D20",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001D2480",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001D27C0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001D3250",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001D38D0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001D3AE0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001D6C10",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001D7C40",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001D8720",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001D8A70",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001D8D20",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001D94B0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001DB800",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001DCDA0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001DD7D0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001DE8E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001DEEA0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001E1460",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001E2DB0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001E3950",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001E4BD0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001E4C90",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001E4D80",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001E50A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001E5480",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001E5C40",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001E6580",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001E66B0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001E7E30",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001E8AE0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001E98C0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001EA4A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001EAA20",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001EAE80",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001EC3F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001EC5E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001EF600",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001EFF40",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001F2300",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001F2490",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001F4CD0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001F5D50",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001F7AC0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001F7D30",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001F7E90",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001F8AF0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001F9A60",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001FAE30",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001FB0A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001FB480",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001FC6A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001FD8F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001FE540",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x001FF7A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00201060",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00202350",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00204540",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002068C0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00206BE0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002091A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0020A120",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0020A390",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0020B1B0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0020B4A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0020B7F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0020C140",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0020D8D0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00210130",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00211B00",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00211E50",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002138E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00213CC0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00213DD0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00213F20",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002144C0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002147D0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00215060",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00215180",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002158F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002159B0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00215A10",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002163D0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002164A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002164C0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002164E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00216500",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00216A70",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00216CA0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002171F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00217360",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0021C160",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0021C910",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0021CA00",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0021D180",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0021DBF0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0021E630",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0021E720",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0021EA10",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0021FFA0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00221C90",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002229F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00222F80",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00223460",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00223760",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00224B50",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00225BB0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00227970",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00228260",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00231100",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00232310",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00232570",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00232690",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002329F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002331F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00234360",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00235470",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00236360",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0023A040",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0023A1B0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0023B950",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0023C030",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0023DB00",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0023DC20",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0023DDF0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00286FB0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00289CD0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0028A4D0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0028A920",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0028AA60",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0028ABD0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0028AFA0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0028B490",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0028BFA0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0028C450",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0028C980",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0028CE50",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0028D460",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00292770",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002963A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002975A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00298590",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00298810",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00299B20",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0029BE70",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002A22C0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002A3420",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002A9370",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002AA160",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002AA1E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002AA340",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002AA4F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002AAEC0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002AB030",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002AB150",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002BB4C0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002BE4DE",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002BECDF",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002BF979",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002BFB58",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002BFFA5",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C0196",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C0474",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C0635",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C0966",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C0B45",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C0E23",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C1002",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C2DAA",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C2EC7",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C3C5D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C3D44",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C611C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C6717",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C6A85",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C6DF0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C7137",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C72D7",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C767E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C798A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C7B10",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C7C62",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C810B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C8290",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C857C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C8748",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C8847",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C89A1",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C8B8A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C8D56",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C8E54",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C8F4C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C9018",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C9247",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C94FA",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C9648",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C9762",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C9B97",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C9DB1",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002C9EE6",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002CAE22",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002CB0DD",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002CB1F7",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002CB478",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002CC4D7",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002CCA7F",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002CD241",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002CD39E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002CD730",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002CDC25",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002CDEAF",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002CE36B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002CE5DD",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002CFA48",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002CFF7C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002D023E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002D08F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002D0A16",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002D0F8B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002D13F6",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002D235C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002D26F5",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002D3120",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002D3390",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002D3A0B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002D4E95",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002D540F",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002D55C5",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002D5703",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002D5874",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002D5DED",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002D66DE",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002D72B1",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002D743E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002D7E65",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002D825D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002D9785",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002D9D76",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002D9F43",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002DA167",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002DA765",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002DCECC",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002DD0E3",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002DD295",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002DD447",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002DFE8F",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002E0016",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002E1207",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002E1569",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002E166D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002E1B08",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002E1D0B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002E1FB6",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002E264F",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002E33F2",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002E38AC",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002E3A31",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002E53CA",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002E6F32",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002E72B2",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002EB1B2",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002EB487",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002EB8DD",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002EDC55",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F0555",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F0E08",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F1166",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F1233",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F192B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F25A4",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F37A1",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F41FC",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F42FE",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F43CE",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F4D6B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F4EBB",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F54CE",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F5634",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F57B6",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F5948",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F60F6",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F63C5",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F6622",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F6A54",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F6CF4",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F6FDE",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F729A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F7572",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F77A6",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F7A41",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F7CB7",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F815E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F8531",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F8652",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F89A2",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F8B33",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F8FEB",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F94EA",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F9770",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F98DE",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F9B39",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002F9FD4",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002FA464",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002FA89B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002FAAB6",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002FAC55",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002FADAB",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002FAF03",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002FB0FD",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002FB2FE",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002FB518",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x002FB68E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00304332",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003055E6",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00308FBC",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00309556",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00309816",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003099D9",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00309F7C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0030A23C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0030AD5B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0030AEEA",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0030B01C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0030B1AA",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0030B376",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0030B5E6",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0030B769",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0030D8FD",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0030E25C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0030EB77",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0030FBE9",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003144E1",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0031B0D2",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0031B45A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0031B926",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0031C447",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0031C5A1",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0031CEE9",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0031E1F4",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0031E58E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0031E825",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0031EE19",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0031F9F1",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00325F6B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003266B0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00326A16",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00326B18",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00326BE5",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0032732E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00327C8D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00328909",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00328ECF",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00328F9F",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00329524",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0032A0E9",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0032A380",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0032A5A5",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0032B06F",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0032BB87",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0032C4FC",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0032C70A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00334962",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00334CC4",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00335202",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00335D2B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00335E5D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003368C4",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003383A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0033C04A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0033E7C7",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0033EF19",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0033F1D0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0033F29D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0033F974",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00340380",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00340FA0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00341566",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00341668",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00341738",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003427B9",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003429E1",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00342C06",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0034385C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00343D73",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003445D1",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003447D8",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003450B9",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003451F5",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0034539B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0034558E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00346F64",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00349F32",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0034A126",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003505C2",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00350A7A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00351044",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0035197F",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00354AF7",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003554AA",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00355604",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0035BA23",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0035C11F",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0035C45D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0035C55F",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0035C62C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0035DEB0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0035E53B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0035E60B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0035EE95",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0035F3FF",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0035F627",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0035F84C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0035FF75",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00360336",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00360DAD",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003610E2",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003619C2",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0036F0D0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0036F271",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00370B2F",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00370C89",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00376158",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0037694C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00376C03",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00376D05",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00376DD2",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003785FA",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00378C63",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00378D33",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003791EF",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00379ACC",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00379CF4",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00379F19",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0037A7CA",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0037AC91",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00389C88",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00389E1C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00389FA2",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0038A139",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0038A2BF",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0038A4DE",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0038A68A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0038A834",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0038A9CB",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0038AB75",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0038AD0C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0038AF2A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0038B12C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0038B391",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0038B891",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0038BA7E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0038BBFC",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0038D8D9",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0038DCB4",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0038E964",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0038EB4A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00394341",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00394937",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00394D6F",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00394E71",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00394F3E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00395D92",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0039688B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00396EDD",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00396FAD",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00397B70",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00397D98",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00397FBD",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0039886C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003989B4",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00398AFC",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00398C2E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00398E3F",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00399306",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00399D69",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0039A0DB",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0039A686",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0039A8E4",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0039AAAA",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0039B7A6",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0039B9BD",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0039BB38",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0039BC3A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0039F94B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003A63C5",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003A690E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003AB41A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003ABBFF",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003ABEB6",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003ABFB8",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003AC085",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003AD81D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003ADE5A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003ADF2A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003AE7BF",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003AED6F",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003AEF97",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003AF1BC",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003AFA87",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003BA099",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003BA46D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003BF9E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003C0003",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003C043B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003C053D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003C060A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003C1C6D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003C2233",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003C2303",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003C302B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003C3253",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003C3478",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003C383C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003C3A9A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003C3CE6",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003C3F32",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003C42FE",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003C5167",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003CD6A6",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003D4015",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003D45D7",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003D4724",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003D4BA3",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003D4C70",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003D6633",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003D6C59",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003D6D5B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003D6E2B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003D75BB",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003D7AEF",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003D7D17",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003D7F3C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003D8925",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003D9E33",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003DCCA9",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003E637A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003E9E89",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003E9FE3",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003EA171",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003EE62E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003EEBF2",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003EF0B1",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003EF17E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003EF7A3",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003F0CA9",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003F1346",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003F1448",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003F1518",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003F1EA4",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003F252E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003F2756",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003F297B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003F2FEF",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003F3424",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003F38EB",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003F4154",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003F435B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003FC525",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003FDCF6",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003FE053",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003FE21B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003FE370",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003FE4A2",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x003FE6FF",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00408F1E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00409050",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0040E6A4",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0040ED83",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0040F34D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0040F44F",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0040F51C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004110A5",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004116EC",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004117BC",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00412389",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004125B1",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00412811",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00413114",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00413E36",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0041475B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004173AD",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004210A7",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00421201",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0042134F",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00427966",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00428113",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004283CA",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00428497",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00429B2C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0042A0F2",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0042A1F4",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0042A2C4",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0042AE8E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0042B0B6",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0042B2DB",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0042BB7A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0042F64E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004332AA",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0043BD8A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0043BF11",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004414F1",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00441C76",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00441F2D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0044202F",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004420FC",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00442775",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004439F4",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00443FBA",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0044408A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00444EE7",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0044510F",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00445334",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00445559",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00445B82",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00445DAF",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0044610E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00446A5D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00447151",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00447423",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004475F8",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00447806",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0044EA9B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0044ECAD",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0045822E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00458416",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00458FAC",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00459106",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004592A8",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00459518",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0045DE1B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0045E4F1",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0045E82F",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0045E8FC",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004600C6",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00460800",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00460902",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004609D2",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0046165D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004618C0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00461AE5",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0046233A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00462699",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0046295D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004638A5",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00475834",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004759C3",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00475B1D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0047A65C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0047AD77",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0047B0B5",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0047B182",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0047C9A4",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0047CF6A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0047D06C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0047D13C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0047DDAA",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0047E003",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0047E259",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0047E614",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0047EB56",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0047EE72",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00483E44",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00485556",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0048B117",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0048B5BD",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0048B8AC",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0048BE42",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0048C392",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0048CC8B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0048E782",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004906F2",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004979C4",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0049A101",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0049BBB1",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0049BD5F",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004A2654",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004A29A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004A3D0D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004A428F",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004A4AE4",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004A582E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004A59B5",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004A5AA2",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004A5B8F",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004A5C7C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004A5D69",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004A6F77",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004A70E7",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004A7284",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004AADC5",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004AB02B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004B064D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004B0F20",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004B16EB",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004B19A6",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004B1B2E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004B1F38",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004B31F4",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004B79FF",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004B89FC",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004B9AB3",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004B9C8F",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004B9EEE",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004BA372",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004BA5E8",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004BA9AB",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004BABA8",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004BACE6",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004BAE20",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004BAF5E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004BB569",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004BB8F3",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004BBC68",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004BC054",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004BC41F",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004BC847",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004BCC46",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004BCF8D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004BD6C4",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004BDE41",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004BE06A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004BE336",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004BE967",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004BEDBC",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004BF03F",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004BF4AD",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004BF6F7",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004BF941",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004BFB58",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004BFDCF",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004C0046",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004C2BA9",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004C2D0C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004C3000",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004C325B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004C3414",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004C55BB",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004C5D1F",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004C5F4F",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004C93F6",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004CC32F",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004CCC49",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004CCF00",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004CCFCD",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004CD6EE",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004CE29E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004CF194",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004CFA78",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004CFB7A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004CFC4A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D02C7",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D03FB",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D0912",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D0A78",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D0BDE",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D1402",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D162A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D18BE",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D1C48",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D1E94",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D20F2",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D233E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D258A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D274E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D2979",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D2B6D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D2F70",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D32CF",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D33F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D36B4",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D3845",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D3E4E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D4080",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D418E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D4434",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D4596",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D4824",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D4BDF",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D4F34",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D51B4",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D5343",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D54AA",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D55FC",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D5738",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D5930",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D5ADD",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D5CA3",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D8285",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004D8465",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004DF84D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004E79C9",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004E9D9B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004EA6A1",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004EA7C1",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004F17BF",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004F34EB",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004F3BFE",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004F3CD6",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004F50B2",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004FB3C8",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004FB9B2",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004FBE31",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004FBF53",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004FC020",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004FC290",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004FC714",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004FD142",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004FE176",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004FEA26",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004FEAF6",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004FF215",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004FF349",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004FF860",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004FF9C6",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004FFB2C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004FFCA2",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x004FFDC2",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005005A6",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005007F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00500A39",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00500E7A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00501106",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00501388",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005015F8",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00501868",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00501A50",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00501C9D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00501E40",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00501FAE",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0050214A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00502263",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005023D1",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005025B2",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005027E9",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00502B48",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00502C69",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00502F2D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005034FB",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0050372D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00503916",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00503A90",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00503CB9",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00503E48",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005041AC",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00504333",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00504688",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005048D8",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00504AE9",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00504C50",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00504D8A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00504EEB",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00505091",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0050523E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005053BE",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0050554C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00507EDE",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0050804C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0050A33D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0050B69A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0050BA3B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00512768",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005128F7",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00512A45",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00512B77",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00512D05",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00512EA2",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0051313A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0051391C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00514CDA",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00516AEC",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00516C4B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0051819D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0051BA2F",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0051DA94",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0051DD30",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0051DF9C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0051E7DE",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0051EA2E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0051EE62",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005210B9",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005238E4",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00524063",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005243A1",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005244A3",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00524570",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00524CDE",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0052567A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0052657D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00526E25",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00526EF5",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0052746E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005275A2",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00527AB9",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00527C1F",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00527D85",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00527EFB",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005283F5",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0052861D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00528842",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00528BCC",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00528E18",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00529076",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005292C2",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0052950E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005296D2",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005298A1",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00529BE6",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0052A375",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0052A6FC",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0052A81D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0052AB09",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0052AF74",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0052B309",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0052B417",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0052B63A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0052B774",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0052B8C6",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0052BACD",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0052BC5C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0052C179",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0052C4CE",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0052C7CD",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0052C934",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0052CAB2",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0052CC19",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0052CD55",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0052CEFB",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0052D0A8",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0052E612",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0052F54F",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00530007",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0053646D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005372FC",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00537650",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005378E6",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00537B5B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00537DF1",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00537FD3",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00538124",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00538283",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00538550",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00538794",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00538979",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00538C0A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00538E6A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005390BD",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00539371",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00539573",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00539A1D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0053AFE9",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0053B5DC",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0053C0C3",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0053C770",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0053CAE4",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0053CD7E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0053CF1B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0053D8BF",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0053DCD8",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005411E6",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00542E4D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00543479",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005439C4",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00543AC6",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00543B93",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00544334",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00544BE6",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00545DCE",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00546631",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00546701",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00546D7E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00546EB2",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005473FE",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0054751E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005476BA",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00547820",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00547996",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005480F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00548387",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005485AC",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00548936",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00548B82",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00548DE0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0054902C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00549278",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0054943C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0054960B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005499DB",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00549FD6",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0054A335",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0054A456",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0054A74B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0054A8DC",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0054AF6C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0054B19E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0054B387",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0054B4C1",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0054B63B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0054B842",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0054BCA7",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0054BFFC",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0054C2CE",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0054C45D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0054C5C4",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0054C700",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0054C8F8",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0054CAA5",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0054CC6B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0054CE6D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0054E527",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0054E6B6",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0054E804",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0054E95E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0054EAEC",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0054EC61",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0054EE2A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005502ED",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00550E40",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00551150",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00552544",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005568AA",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0055CC6B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0055DD5D",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0055E866",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0055E9C0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005638E5",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00563E8F",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00564341",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0056440E",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0056527F",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00565D97",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00566406",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00566508",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005665D8",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005673BE",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005675E6",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0056780B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00568060",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00568527",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00568AB6",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005696A7",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005697F9",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0056B28C",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0056B642",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00571084",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00572652",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00572820",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00572952",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00572CAF",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00572DFE",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0057305B",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0057EA9A",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00585411",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058F9C0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FA30",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FAE0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FBE0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FC00",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FC10",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FC20",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FC30",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FC40",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FC50",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FC60",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FC70",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FC80",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FC90",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FCA0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FCB0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FCC0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FCD0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FCE0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FCF0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FD00",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FD10",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FD20",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FD30",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FD40",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FD50",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FD60",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FD70",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FD80",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FD90",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FDA0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FDB0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FDC0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FDD0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FDE0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FDF0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FE00",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FE10",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FE20",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FE30",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FE40",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FE50",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FE60",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FE70",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FE80",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FE90",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FEA0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FEB0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FEC0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FED0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FEE0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FEF0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FF00",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FF10",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FF30",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FF40",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FF50",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FF60",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FF70",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FF80",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FF90",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FFA0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FFB0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FFC0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FFD0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FFE0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0058FFF0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590000",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590010",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590020",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590030",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590040",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590050",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590060",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590070",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590080",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590090",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005900A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005900B0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005900C0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005900D0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005900E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005900F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590100",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590110",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590120",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590130",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590140",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590150",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590160",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590170",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590180",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590190",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005901B0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005901C0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005901D0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005901E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005901F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590200",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590210",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590220",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590230",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590240",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590250",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590260",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590270",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590280",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590290",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005902A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005902B0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005902C0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005902D0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005902E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005902F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590300",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590310",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590320",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590330",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590340",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590350",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590360",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590370",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590380",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590390",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005903A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005903B0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005903C0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005903D0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005903E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005903F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590400",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590410",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590420",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590430",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590440",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590450",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590460",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590470",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590490",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005904A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005904B0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005904C0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005904D0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005904E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005904F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590500",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590510",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590520",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590530",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590540",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590550",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590560",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590570",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590580",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590590",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005905A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005905B0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005905C0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005905D0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005905E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005905F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590600",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590610",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590620",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590630",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590640",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590650",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590660",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590670",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590680",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590690",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005906A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005906B0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005906C0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005906D0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005906E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005906F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590700",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590720",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590790",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005907A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005907B0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005907C0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005907D0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005907E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005907F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590800",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590810",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590820",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590830",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590840",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590850",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590860",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590870",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590880",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590890",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005908B0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005908C0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005908D0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005908E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005908F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590900",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590910",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590920",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590930",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590940",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590950",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590980",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590990",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005909A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005909B0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005909C0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005909D0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005909E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005909F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590A00",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590A10",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590A20",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590A30",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590A40",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590A50",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590A60",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590A70",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590A80",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590A90",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590AA0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590AB0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590AC0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590AD0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590AE0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590AF0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590B00",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590B10",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590B20",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590B30",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590B40",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590B50",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590B60",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590B70",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590B80",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590B90",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590BA0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590BB0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590BC0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590BD0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590BE0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590BF0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590C00",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590C10",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590C20",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590C30",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590C40",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590C50",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590C60",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590C70",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590C80",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590C90",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590CA0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590CB0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590CC0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590CD0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590CE0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590CF0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590D00",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590D10",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590D20",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590D30",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590D40",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590D50",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590D60",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590D70",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590D80",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590D90",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590DA0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590DB0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590DC0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590DD0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590DE0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590E00",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590E10",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590E20",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590E30",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590E40",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590E50",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590E60",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590E70",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590E80",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590E90",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590EA0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590EB0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590EC0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590ED0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590EE0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590EF0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590F00",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590F10",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590F20",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590F30",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590F40",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590F50",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590F60",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590F70",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590F80",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590F90",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590FA0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590FB0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590FC0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590FD0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590FE0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00590FF0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00591000",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00591010",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00591020",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00591030",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00591040",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00591050",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00591060",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00591070",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00591080",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00591090",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005910A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005910B0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005910C0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005910D0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005910E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005910F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00591100",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00591110",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00591120",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00591130",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00591140",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00591150",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00591160",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00591170",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00591180",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00591190",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005911A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005911B0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005911C0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005911D0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005911E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005911F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00591200",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00591210",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00591220",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00591230",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00591240",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00591250",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00591260",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00591270",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00591280",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00591290",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005912A0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005912D0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005912E0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005912F0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x005999B0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0060F944",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00610229",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0061090F",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x0061116F",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x006111B0",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x006111D4",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x00611427",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x006119E9",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ },
+ {
+  "start": "0x006152C4",
+  "note": "MSVC MAP function symbol (final.map) missed by tools.disasm"
+ }
+]
