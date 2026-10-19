@@ -23,8 +23,6 @@ It runs at 960×720 with 2× MSAA, targeting the original 30 FPS. Movies, audio,
   save/               created on first run
 ```
 
-**Updating:** choose **Create update ZIP** in the installer. It replaces only the NRO and licence notices, so your game, saves and settings stay in place.
-
 ## Controls
 
 Each Switch button maps to the Xbox button with the same letter.

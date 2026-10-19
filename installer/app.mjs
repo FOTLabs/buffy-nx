@@ -21,7 +21,7 @@ $('create').onclick=async()=>{
   if(!window.showSaveFilePicker)throw Error('Use desktop Chrome or Edge for streaming ZIP output, or follow the manual SD instructions in the README.');
   // Open the picker while this click still has browser user activation.
   destination=await showSaveFilePicker({suggestedName:'buffy-nx.zip',types:[{description:'ZIP archive',accept:{'application/zip':['.zip']}}]});
-  $('create').disabled=true;$('update').disabled=true;status('Checking your game…');
+  $('create').disabled=true;status('Checking your game…');
   const [config,manifest]=await Promise.all([json('./game.json'),json('./release.json')]);
   let files=$('iso').files.length?await discFiles($('iso').files[0]):folderFiles($('folder').files);
   files=await validateGame(files,config);const nro=await getNro(manifest);
@@ -35,22 +35,6 @@ $('create').onclick=async()=>{
   let done=0;for(const f of files){status('Packing '+(++done)+' / '+files.length+': '+f.path);await writer.add(prefix+'game/'+f.path,f.blob);}
   await writer.finish();await zip.close();zip=null;status('Done. Extract buffy-nx.zip into your SD card root.');
  }catch(error){if(zip)await zip.abort().catch(()=>{});status(error.name==='AbortError'?'Cancelled.':error.message);}
- finally{$('create').disabled=false;$('update').disabled=false;}
+ finally{$('create').disabled=false;}
 };
 
-$('update').onclick=async()=>{
- let zip;
- try{
-  if(!$('ownership').checked)throw Error('Confirm that you have your own game copy.');
-  if(!window.showSaveFilePicker)throw Error('Use desktop Chrome or Edge, or download the NRO manually from Releases.');
-  const destination=await showSaveFilePicker({suggestedName:'buffy-nx-update.zip',types:[{description:'ZIP archive',accept:{'application/zip':['.zip']}}]});
-  $('create').disabled=true;$('update').disabled=true;
-  const [config,manifest]=await Promise.all([json('./game.json'),json('./release.json')]);
-  const nro=await getNro(manifest),response=await fetch('./LICENSES.txt');
-  if(!response.ok)throw Error('Licence notices unavailable');
-  zip=await destination.createWritable();const writer=new ZipWriter(zip),prefix='switch/'+config.sdFolder+'/';
-  await writer.add(prefix+'buffy_recomp.nro',nro);await writer.add(prefix+'LICENSES.txt',await response.blob());
-  await writer.finish();await zip.close();zip=null;status('Update ready. Extract over your existing SD installation; saves and settings are preserved.');
- }catch(error){if(zip)await zip.abort().catch(()=>{});status(error.name==='AbortError'?'Cancelled.':error.message);}
- finally{$('create').disabled=false;$('update').disabled=false;}
-};
