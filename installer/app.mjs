@@ -14,7 +14,6 @@ async function getNro(manifest){
 $('create').onclick=async()=>{
  let destination,zip;
  try{
-  if(!$('ownership').checked)throw Error('Confirm that you have your own game copy.');
   if(!$('folder').files.length&&!$('iso').files.length)throw Error('Choose your game folder or ISO.');
   if(!window.showSaveFilePicker)throw Error('Use desktop Chrome or Edge for streaming ZIP output, or follow the manual SD instructions in the README.');
   // Open the picker while this click still has browser user activation.
