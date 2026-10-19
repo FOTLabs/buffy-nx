@@ -37,7 +37,7 @@ export GLSLANG_NX=/path/to/glslang-switch/install
 BUILD_DIR=/path/to/buffy-switch bash tools/build.sh switch
 ```
 
-The NRO is written to `$BUILD_DIR/app/buffy_recomp.nro`. Select it in the installer, or copy it to `/switch/buffyx/` yourself.
+The NRO is written to `$BUILD_DIR/app/buffy_recomp.nro`. Copy it to `/switch/buffyx/` on your SD card, with your extracted game in `/switch/buffyx/game/`.
 
 ## Tests
 
