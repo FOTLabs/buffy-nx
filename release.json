@@ -1,7 +1,1 @@
-{
-  "version": "0.1.0",
-  "source_commit": "8d0a3639f58c388221b821eeb7a7b95f0ba000f9",
-  "nroSha256": "bcdff11142858e86c681a98a064dbabf77dd48818d686ffcabad53d42573f242",
-  "nroUrl": "./release/buffy_recomp.nro",
-  "status": "release"
-}
+{"version":"1.0.0","nroUrl":"./release/buffy_recomp.nro","nroSha256":"0cd9a6b5deec19513c04520143bec6401bd59340cbef3a476275cd03a9de9865","status":"release"}
