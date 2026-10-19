@@ -73,6 +73,7 @@ To build the NRO yourself you need devkitPro (devkitA64, libnx, Switch SDL2), an
 - [**xemu contributors**](https://github.com/xemu-project/xemu), including espes, Jannik Vogel and Matt Borgerson: MCPX APU and NV2A definitions.
 - [**danfromtico**](https://github.com/danfromtico/mesa-switch) and [**NaGaa95**](https://github.com/NaGaa95/mesa-switch): Mesa/NVK on Switch.
 - [**devkitPro**](https://devkitpro.org/) and [**switchbrew/libnx**](https://github.com/switchbrew/libnx): the Switch toolchain and libraries.
+- [**StevensND/nfsmw-nx**](https://github.com/StevensND/nfsmw-nx): inspiration for the browser installer.
 
 ## Legal
 
