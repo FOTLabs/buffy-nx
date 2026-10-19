@@ -5,12 +5,10 @@ function formatChanged(){const iso=$('format-iso').checked;$('iso-choice').hidde
 $('format-iso').onchange=formatChanged;$('format-folder').onchange=formatChanged;
 async function json(path){const response=await fetch(path);if(!response.ok)throw Error('Cannot load '+path);return response.json();}
 async function getNro(manifest){
- const local=$('nro').files[0];
- if(local){const magic=new TextDecoder().decode(await local.slice(16,20).arrayBuffer());if(magic!=='NRO0')throw Error('Selected file is not an NRO');return local;}
- if(!manifest.nroUrl || !manifest.nroSha256)throw Error('No published build is configured yet. Choose a locally built NRO.');
+ if(!manifest.nroUrl || !manifest.nroSha256)throw Error('No published build is configured yet.');
  status('Downloading and verifying release '+manifest.version+'…');
- let response;try{response=await fetch(manifest.nroUrl,{headers:{Accept:'application/octet-stream'}});}catch{throw Error('Browser blocked the download. Download the NRO from GitHub Releases and select it above.');}
- if(!response.ok)throw Error('Download failed; select the release NRO manually.');
+ let response;try{response=await fetch(manifest.nroUrl,{headers:{Accept:'application/octet-stream'}});}catch{throw Error('Browser blocked the download. Try again in desktop Chrome or Edge.');}
+ if(!response.ok)throw Error('Download failed. Please try again.');
  const blob=await response.blob();if(await sha256(blob)!==manifest.nroSha256)throw Error('Release NRO checksum mismatch');return blob;
 }
 $('create').onclick=async()=>{
