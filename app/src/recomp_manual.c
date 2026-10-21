@@ -86,8 +86,12 @@ extern ptrdiff_t g_xbox_mem_offset;
  *       g_eax = result;
  *   }
  */
+extern int buffy_trace_aim_enabled(void);
+extern void buffy_trace_first_person_switch(void);
 recomp_func_t recomp_lookup_manual(uint32_t xbox_va)
 {
+    if (xbox_va == 0x000E5810 && buffy_trace_aim_enabled())
+        return buffy_trace_first_person_switch;
     /*
      * TODO: Add your overrides here. Examples:
      *

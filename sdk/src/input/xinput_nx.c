@@ -217,10 +217,13 @@ int xbox_nx_pad_read(unsigned port, uint16_t *digital, uint8_t analog[8],
         if (stick_mag(sl) > stick_mag(l)) l = sl;
         if (stick_mag(sr) > stick_mag(r)) r = sr;
     }
-    mutexUnlock(&s_lock);
-
-    if (!mask[port])
+    /* Keep sampling and the shared trigger-ramp read/modify/write in one
+     * ordered transaction. USB and XInput readers can otherwise update the
+     * same port's level/last timestamp concurrently and return stale input. */
+    if (!mask[port]) {
+        mutexUnlock(&s_lock);
         return 0;
+    }
 
     *digital = 0;
     if (b & HidNpadButton_Up)     *digital |= 0x0001;
@@ -290,6 +293,28 @@ int xbox_nx_pad_read(unsigned port, uint16_t *digital, uint8_t analog[8],
     thumbs[1] = (int16_t)l.y;
     thumbs[2] = (int16_t)r.x;
     thumbs[3] = (int16_t)r.y;
+    {
+        /* Optional trace separates native HID releases from trigger travel.
+         * Disabled by default; it never changes the returned input. */
+        static int trace = -1;
+        static uint32_t previous[NX_PADS];
+        if (trace < 0) {
+            const char *e = getenv("RECOMP_NX_TRIGGER_TRACE");
+            trace = e && *e == '1';
+        }
+        if (trace) {
+            unsigned held = ((b & HidNpadButton_ZL) ? 1u : 0u)
+                          | ((b & HidNpadButton_ZR) ? 2u : 0u);
+            uint32_t sample = (held << 16) | ((uint32_t)analog[NX_XBOX_LT] << 8)
+                              | analog[NX_XBOX_RT];
+            if (__atomic_exchange_n(&previous[port], sample, __ATOMIC_RELAXED) != sample)
+                fprintf(stderr, "[nx-trigger] port=%u sources=%X HID-ZL/ZR=%u/%u Xbox-LT/RT=%u/%u L=%d,%d R=%d,%d\n",
+                    port, mask[port], held & 1, (held >> 1) & 1,
+                    analog[NX_XBOX_LT], analog[NX_XBOX_RT],
+                    l.x, l.y, r.x, r.y);
+        }
+    }
+    mutexUnlock(&s_lock);
     return 1;
 }
 

@@ -472,15 +472,47 @@ void sub_000E7EC0(void)
     uint32_t self=ecx,frame=nv2a_pb_flip_count();
     float yaw=MEMF(self+0x5C),pitch=MEMF(self+0x58),dt=MEMF(self+0x68);
     uint32_t game=MEM32(0x7D0090),tick=game?MEM32(game+0x20):0;
-    float global_dt=tick?MEMF(tick+0xA4):0;
+    float fov_before=tick?MEMF(tick+0xA4):0;
+    uint32_t zoom_before=MEM32(self+0x78);
     s_first_person_input++;
     sub_000E7EC0_gen();
     s_first_person_input--;
     static uint32_t last;
-    if(frame-last>=15) {
-        last=frame;
-        fprintf(stderr,"[aim-camera] f%u dt=%.6g global-dt=%.6g yaw %.6g->%.6g pitch %.6g->%.6g velocity %.6g %.6g\n",frame,dt,global_dt,yaw,MEMF(self+0x5C),pitch,MEMF(self+0x58),MEMF(self+0x70),MEMF(self+0x74));
+    uint32_t zoom_after=MEM32(self+0x78);
+    if(frame-last>=15 || zoom_before!=zoom_after) {
+        uint16_t digital;uint8_t analog[8];int16_t thumbs[4];
+        buffy_aim_input_snapshot(&digital,analog,thumbs);last=frame;
+        /* TGO::Interface_Options returns game+0x20. Its +0xA4 field is
+         * the zoom FOV, not a frame delta. Read command states without
+         * issuing/consuming another guest input query. */
+        uint32_t manager=MEM32(0x7CFEB8),stream=tick?MEM32(tick+0xE8):~0u;
+        uint32_t states=manager && stream<32 ? MEM32(manager+0x274+4*stream):0;
+        uint16_t camera=states?MEM16(states+0x3D0+16*6):0;
+        float camera_value=states?MEMF(states+0x3D4+16*6):0;
+        float zoom_value=states?MEMF(states+0x3D4+16*7):0;
+        fprintf(stderr,"[aim-camera] f%u dt=%.6g zoom=%u->%u fov=%.6g->%.6g LT/RT=%u/%u stream=%u camera=%04X/%.4g zoom-input=%.4g yaw %.6g->%.6g pitch %.6g->%.6g\n",
+            frame,dt,zoom_before,zoom_after,fov_before,tick?MEMF(tick+0xA4):0,
+            analog[6],analog[7],stream,camera,camera_value,zoom_value,
+            yaw,MEMF(self+0x5C),pitch,MEMF(self+0x58));
     }
+}
+
+/* Route only diagnostic virtual calls through this wrapper. The original
+ * function still owns mode decisions and its ret4 stack cleanup. */
+void buffy_trace_first_person_switch(void)
+{
+    uint32_t self=ecx,caller=MEM32(esp);
+    unsigned enabled=MEM8(esp+4)!=0;
+    static uint32_t last_request;
+    uint32_t request=self | enabled;
+    if(__atomic_exchange_n(&last_request,request,__ATOMIC_RELAXED)!=request) {
+        uint16_t digital;uint8_t analog[8];int16_t thumbs[4];
+        buffy_aim_input_snapshot(&digital,analog,thumbs);
+        fprintf(stderr,"[aim-mode] enable=%u self=%08X caller=%08X LT/RT=%u/%u dig=%04X L=%d,%d R=%d,%d\n",
+            enabled,self,caller,analog[6],analog[7],digital,
+            thumbs[0],thumbs[1],thumbs[2],thumbs[3]);
+    }
+    sub_000E5810();
 }
 
 extern void sub_000E4B90_gen(void);

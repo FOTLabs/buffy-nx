@@ -79,6 +79,14 @@ void xbox_platform_input_filter(unsigned port,uint16_t *digital,uint8_t analog[8
         __atomic_store_n(&s_aim_digital,*digital,__ATOMIC_RELAXED);
         for(int i=0;i<8;i++)__atomic_store_n(&s_aim_analog[i],analog[i],__ATOMIC_RELAXED);
         for(int i=0;i<4;i++)__atomic_store_n(&s_aim_thumbs[i],thumbs[i],__ATOMIC_RELAXED);
+        /* Record trigger/ stick-click transitions even after first-person
+         * camera updates stop. Never filter or manufacture a pad sample. */
+        static uint32_t last_buttons=~0u;
+        uint32_t buttons=analog[6] | ((uint32_t)analog[7]<<8)
+                         | ((uint32_t)(*digital & 0x00C0)<<16);
+        if(__atomic_exchange_n(&last_buttons,buttons,__ATOMIC_RELAXED)!=buttons)
+            fprintf(stderr,"[aim-pad] LT/RT=%u/%u dig=%04X L=%d,%d R=%d,%d\n",
+                analog[6],analog[7],*digital,thumbs[0],thumbs[1],thumbs[2],thumbs[3]);
     }
     /* Observe physical edges. Do not manufacture a release when entering the
      * menu: its GUI also has a cached Start event independent of USB polling. */

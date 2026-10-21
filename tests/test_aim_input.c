@@ -14,5 +14,14 @@ int main(void) {
  uint16_t second=1;uint8_t second_a[8]={0};int16_t second_t[4]={0};
  xbox_platform_input_filter(1,&second,second_a,second_t);
  buffy_aim_input_snapshot(&read_d,read_a,read_t);assert(read_d==d && read_a[7]==255 && read_t[2]==16000);
+ /* ZL must remain held while ZR changes and either stick moves. */
+ for(unsigned step=0;step<256;step++) {
+  d=0;a[6]=255;a[7]=(uint8_t)step;
+  t[0]=(int16_t)(step*257-32768);t[2]=(int16_t)(32767-step*257);
+  xbox_platform_input_filter(0,&d,a,t);
+  buffy_aim_input_snapshot(&read_d,read_a,read_t);
+  assert(a[6]==255 && a[7]==step && read_a[6]==255 && read_a[7]==step);
+  assert(read_t[0]==t[0] && read_t[2]==t[2]);
+ }
  puts("PASS: aim diagnostics preserve real buttons, both triggers and both sticks; second port isolated");
 }
