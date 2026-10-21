@@ -75,6 +75,25 @@ void buffy_aim_input_snapshot(uint16_t *digital,uint8_t analog[8],int16_t thumbs
 void xbox_platform_input_filter(unsigned port,uint16_t *digital,uint8_t analog[8],int16_t thumbs[4]) {
     (void)thumbs;
     if(port) return;
+    /* Diagnostic-only capture key: own Minus for the whole run so its
+     * gameplay action cannot open a menu before the captured frame. */
+    static int capture_mode;
+    static unsigned capture_down;
+    int capture=__atomic_load_n(&capture_mode,__ATOMIC_RELAXED);
+    if(!capture) {
+        const char *key=getenv("GAME_CAPTURE_BUTTON");
+        capture=key && strcmp(key,"minus")==0 ? 2 : 1;
+        __atomic_store_n(&capture_mode,capture,__ATOMIC_RELAXED);
+    }
+    if(capture==2) {
+        unsigned down=(*digital & 0x0020)!=0;
+        unsigned was=__atomic_exchange_n(&capture_down,down,__ATOMIC_RELAXED);
+        *digital &= (uint16_t)~0x0020;
+        if(down && !was) {
+            nv2a_fixture_pad_trigger=1;
+            fprintf(stderr,"[capture] Minus pressed; frame capture requested\n");
+        }
+    }
     if(buffy_trace_aim_enabled()) {
         __atomic_store_n(&s_aim_digital,*digital,__ATOMIC_RELAXED);
         for(int i=0;i<8;i++)__atomic_store_n(&s_aim_analog[i],analog[i],__ATOMIC_RELAXED);
