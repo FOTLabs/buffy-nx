@@ -1187,7 +1187,9 @@ static ssize_t ra_read(int k, int fd, void *dst, uint32_t len, int64_t pos)
     int seq = s_ra[k].last_end == pos;
     if (seq)
         s_rd_seq++;
-    if (len <= RA_SMALL) {
+    /* Movie decoding also uses 64 KiB requests. Keep those in the media
+     * window instead of paying one SD request for every decoder read. */
+    if (len <= RA_SMALL || (s_ra[k].media && len <= RA_SIZE)) {
         if (s_ra[k].len && pos >= s_ra[k].start
                 && pos + len <= s_ra[k].start + s_ra[k].len) {
             memcpy(dst, s_ra[k].buf + (pos - s_ra[k].start), len);

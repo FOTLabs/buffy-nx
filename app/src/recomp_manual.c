@@ -86,12 +86,16 @@ extern ptrdiff_t g_xbox_mem_offset;
  *       g_eax = result;
  *   }
  */
+extern void buffy_movie_mc_half(void);
+extern void buffy_movie_mc_copy(void);
 extern void buffy_input_update(void);
 extern void buffy_input_poll(void);
 extern int buffy_trace_aim_enabled(void);
 extern void buffy_trace_first_person_switch(void);
 recomp_func_t recomp_lookup_manual(uint32_t xbox_va)
 {
+    if (xbox_va == 0x005F73A2) return buffy_movie_mc_half;
+    if (xbox_va == 0x005F6F71) return buffy_movie_mc_copy;
     if (xbox_va == 0x00024B50) return buffy_input_update;
     if (xbox_va == 0x00024E90) return buffy_input_poll;
     if (xbox_va == 0x000E5810 && buffy_trace_aim_enabled())
