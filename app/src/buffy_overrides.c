@@ -487,8 +487,8 @@ void sub_000E7EC0(void)
          * issuing/consuming another guest input query. */
         uint32_t manager=MEM32(0x7CFEB8),stream=tick?MEM32(tick+0xE8):~0u;
         uint32_t states=manager && stream<32 ? MEM32(manager+0x274+4*stream):0;
-        uint16_t camera=states?MEM16(states+0x3D0+16*6):0;
-        float camera_value=states?MEMF(states+0x3D4+16*6):0;
+        uint16_t camera=states?MEM16(states+0x3D0+16*0x12):0;
+        float camera_value=states?MEMF(states+0x3D4+16*0x12):0;
         float zoom_value=states?MEMF(states+0x3D4+16*7):0;
         fprintf(stderr,"[aim-camera] f%u dt=%.6g zoom=%u->%u fov=%.6g->%.6g LT/RT=%u/%u stream=%u camera=%04X/%.4g zoom-input=%.4g yaw %.6g->%.6g pitch %.6g->%.6g\n",
             frame,dt,zoom_before,zoom_after,fov_before,tick?MEMF(tick+0xA4):0,

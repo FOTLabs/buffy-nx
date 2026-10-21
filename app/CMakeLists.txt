@@ -78,13 +78,14 @@ file(GLOB RECOMP_GEN_SOURCES CONFIGURE_DEPENDS "${GAME_GEN_DIR}/*.c")
 
 # Hand-written code that runs on the lifted register model: same TLS model,
 # PGO and LTO as the generated code.
-set(GAME_HAND_SOURCES src/recomp_manual.c src/buffy_overrides.c generated/hooks/xdk_hooks_glue.c
+set(GAME_HAND_SOURCES src/recomp_manual.c src/buffy_overrides.c src/buffy_input.c generated/hooks/xdk_hooks_glue.c
     ${XBOXRECOMP_DIR}/src/game/xdk_hooks.c)
 
 set(GAME_SOURCES
     src/main.c
     src/recomp_manual.c
     src/buffy_overrides.c
+    src/buffy_input.c
     src/buffy_visibility.c
     src/buffy_rumble.c
     generated/hooks/xdk_hooks_glue.c
