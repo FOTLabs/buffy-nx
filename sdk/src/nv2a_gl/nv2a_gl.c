@@ -1120,6 +1120,7 @@ typedef struct {
     Nv2aPshKey pkey;
     GLuint     prog;
     GLint      u_c, u_surf, u_aa, u_m, u_vpoff, u_xform;
+    GLint      u_ffog, u_fplane, u_fmv;
     GLint      u_t[4], u_tscale, u_c0, u_c1, u_fc0, u_fc1, u_fogcolor, u_afunc, u_aref;
     GLint      u_bump, u_bumpl;
     uint32_t   used;
@@ -1132,6 +1133,7 @@ typedef struct {
     int        uni_valid;       /* uni holds the rest of its uniforms */
     struct GlUni {
         float surf[4], aa[2], m[16], vpoff[4], tscale[4][2];
+        float ffog[4], fplane[4], fmv[16];
         float c0[8][4], c1[8][4], fog[4], fc[2][4], aref;
         int   xform, afunc;
     } uni;
@@ -1510,6 +1512,9 @@ static GlProg *prog_get(const Nv2aRawBatch *b, const Nv2aPshKey *pk)
     p->u_m = glGetUniformLocation(p->prog, "u_m");
     p->u_vpoff = glGetUniformLocation(p->prog, "u_vpoff");
     p->u_xform = glGetUniformLocation(p->prog, "u_xform");
+    p->u_ffog = glGetUniformLocation(p->prog, "u_ffog");
+    p->u_fplane = glGetUniformLocation(p->prog, "u_fplane");
+    p->u_fmv = glGetUniformLocation(p->prog, "u_fmv");
     p->u_tscale = glGetUniformLocation(p->prog, "u_tscale");
     p->u_c0 = glGetUniformLocation(p->prog, "u_c0");
     p->u_c1 = glGetUniformLocation(p->prog, "u_c1");
@@ -2243,6 +2248,11 @@ static void gl_draw_raw(const Nv2aRawBatch *b)
         memcpy(u.aa, aa, sizeof u.aa);
         memcpy(u.m, m, sizeof u.m);
         memcpy(u.vpoff, b->vp_offset, sizeof u.vpoff);
+        memcpy(u.ffog, &r[0x9C0 / 4], 8);
+        u.ffog[2] = (float)r[0x29C / 4];
+        u.ffog[3] = r[0x2A4 / 4] ? (float)r[0x2A0 / 4] : -1.0f;
+        memcpy(u.fplane, &r[0x9D0 / 4], sizeof u.fplane);
+        memcpy(u.fmv, &r[0x480 / 4], sizeof u.fmv);
         memcpy(u.tscale, tscale, sizeof u.tscale);
         memcpy(u.c0, c0, sizeof u.c0);
         memcpy(u.c1, c1, sizeof u.c1);
@@ -2260,6 +2270,9 @@ static void gl_draw_raw(const Nv2aRawBatch *b)
             if (p->u_m >= 0) glUniform4fv(p->u_m, 4, u.m);
             if (p->u_vpoff >= 0) glUniform4fv(p->u_vpoff, 1, u.vpoff);
             if (p->u_xform >= 0) glUniform1i(p->u_xform, u.xform);
+            if (p->u_ffog >= 0) glUniform4fv(p->u_ffog, 1, u.ffog);
+            if (p->u_fplane >= 0) glUniform4fv(p->u_fplane, 1, u.fplane);
+            if (p->u_fmv >= 0) glUniform4fv(p->u_fmv, 4, u.fmv);
             if (p->u_tscale >= 0) glUniform2fv(p->u_tscale, 4, &u.tscale[0][0]);
             if (p->u_c0 >= 0) glUniform4fv(p->u_c0, 8, &u.c0[0][0]);
             if (p->u_c1 >= 0) glUniform4fv(p->u_c1, 8, &u.c1[0][0]);

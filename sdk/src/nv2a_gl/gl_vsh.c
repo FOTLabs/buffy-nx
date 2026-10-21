@@ -316,6 +316,7 @@ static const char s_vk_prelude[] =
     "    vec4 u_vpoff;\n"
     "    vec2 u_aa;\n"
     "    int u_xform;\n"
+    "    vec4 u_ffog; vec4 u_fplane; vec4 u_fmv[4];\n"
     "};\n"
     "layout(location = 0) out vec4 vD0; layout(location = 1) out vec4 vD1;\n"
     "layout(location = 2) out vec4 vT0; layout(location = 3) out vec4 vT1;\n"
@@ -384,6 +385,7 @@ const char *nv2a_gl_vsh_prelude(void)
         "uniform vec2 u_aa;        /* logical -> real pixels */\n"
         "uniform vec4 u_m[4];      /* fixed-function composite rows */\n"
         "uniform vec4 u_vpoff;     /* fixed-function viewport offset */\n"
+        "uniform vec4 u_ffog; uniform vec4 u_fplane; uniform vec4 u_fmv[4];\n"
         "out vec4 vD0; out vec4 vD1; out vec4 vT0; out vec4 vT1;\n"
         "out vec4 vT2; out vec4 vT3; out float vFog;\n"
         "vec4 R0, R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11;\n"
@@ -490,7 +492,27 @@ const char *nv2a_gl_vsh_fixed(void)
         "        gl_Position = nv2a_clip(v0.xyz * w, w);\n"
         "    }\n"
         "    vD0 = clamp(v3, 0.0, 1.0); vD1 = clamp(v4, 0.0, 1.0);\n"
-        "    vT0 = v9; vT1 = v10; vT2 = v11; vT3 = v12; vFog = 0.0;\n"
+        "    vT0 = v9; vT1 = v10; vT2 = v11; vT3 = v12;\n"
+        /* Fixed-function fog must reach the final combiner too. A constant zero
+         * replaced every fogged material with the fog colour (Buffy's bell tower).
+         * ffog = hardware parameters 0/1, mode, generation (-1 when disabled). */
+        "    vFog = 1.0;\n"
+        "    if (u_ffog.w >= 0.0) {\n"
+        "        vec3 eye = vec3(dot(u_fmv[0], v0), dot(u_fmv[1], v0), dot(u_fmv[2], v0));\n"
+        "        int gen = int(u_ffog.w), mode = int(u_ffog.z);\n"
+        "        float distance = v4.a;\n"
+        "        if (gen == 1) distance = length(eye);\n"
+        "        else if (gen == 2 || gen == 3) distance = dot(u_fplane, vec4(eye, 1.0));\n"
+        "        else if (gen == 6) distance = v5.x;\n"
+        "        if (gen == 3) distance = abs(distance);\n"
+        "        float factor = u_ffog.x - 1.0 + distance * u_ffog.y;\n"
+        "        if (mode == 0x800 || mode == 0x802)\n"
+        "            factor = u_ffog.x - 1.5 + exp2(distance * u_ffog.y * 16.0);\n"
+        "        else if (mode == 0x801 || mode == 0x803)\n"
+        "            factor = u_ffog.x - 1.5 + exp2(-distance * distance * u_ffog.y * u_ffog.y * 32.0);\n"
+        "        if (mode == 0x802 || mode == 0x803 || mode == 0x804) factor = abs(factor);\n"
+        "        vFog = isnan(factor) ? 1.0 : clamp(factor, -3.402823e38, 3.402823e38);\n"
+        "    }\n"
         "}\n";
     return nv2a_shader_vk ? body + sizeof decl - 1 : body;
 }

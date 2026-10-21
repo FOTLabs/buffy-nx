@@ -1855,6 +1855,7 @@ typedef struct {
     float aa[2];
     int32_t xform;
     int32_t pad;
+    float ffog[4], fplane[4], fmv[16];
 } VsBlock;
 
 typedef struct {
@@ -5048,6 +5049,7 @@ static void vk_draw_raw(const Nv2aRawBatch *b)
         struct VsKey {
             uint32_t gen, cb_gen, zmax, xform;
             float sw, sh, m[16], vpoff[4], aa[2];
+            float ffog[4], fplane[4], fmv[16];
         } vk;
         static struct VsKey last_vk;
         static VkDeviceSize last_vat;
@@ -5057,6 +5059,11 @@ static void vk_draw_raw(const Nv2aRawBatch *b)
         vk.cb_gen = s_cb_gen;
         vk.zmax = zmax_of(r);
         vk.xform = b->xform == 1 ? 1 : 0;
+        memcpy(vk.ffog, &r[0x9C0 / 4], 8);
+        vk.ffog[2] = (float)r[0x29C / 4];
+        vk.ffog[3] = r[0x2A4 / 4] ? (float)r[0x2A0 / 4] : -1.0f;
+        memcpy(vk.fplane, &r[0x9D0 / 4], sizeof vk.fplane);
+        memcpy(vk.fmv, &r[0x480 / 4], sizeof vk.fmv);
         vk.sw = (float)s->w;
         vk.sh = (float)s->h;
         memcpy(vk.m, b->composite, sizeof vk.m);
@@ -5080,6 +5087,10 @@ static void vk_draw_raw(const Nv2aRawBatch *b)
             vb->aa[0] = vk.aa[0];
             vb->aa[1] = vk.aa[1];
             vb->xform = (int32_t)vk.xform;
+            vb->pad = 0;
+            memcpy(vb->ffog, vk.ffog, sizeof vb->ffog);
+            memcpy(vb->fplane, vk.fplane, sizeof vb->fplane);
+            memcpy(vb->fmv, vk.fmv, sizeof vb->fmv);
             ub[0].offset = vat;
             last_vk = vk;
             last_vat = vat;
