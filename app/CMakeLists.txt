@@ -174,7 +174,7 @@ if(NINTENDO_SWITCH)
     set(GAME_SWITCH_APP_NAME "Buffy the Vampire Slayer (Xbox recomp)" CACHE STRING
         "Title shown in the homebrew menu")
     set(GAME_SWITCH_AUTHOR "FOTLabs" CACHE STRING "Author shown in the homebrew menu")
-    set(GAME_SWITCH_VERSION "1.0.0" CACHE STRING "Version shown in the homebrew menu")
+    set(GAME_SWITCH_VERSION "1.0.1" CACHE STRING "Version shown in the homebrew menu")
     set(GAME_SWITCH_ICON "" CACHE FILEPATH
         "256x256 JPEG icon (libnx default when empty)")
 
